@@ -41,7 +41,7 @@
     </style>
 </head>
 <body>
-    <h1>Hey Darling</h1>
+    <h1> Good Morning Darling</h1>
     <p>Would you like to go on a special date with me on 17th?</p>
     
     <button onclick="acceptInvitation()">Yes, I'd love to!</button>
